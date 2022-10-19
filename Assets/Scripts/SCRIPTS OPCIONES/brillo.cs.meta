@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/SCRIPTS OPCIONES/brillo.cs.meta
+guid: 254fe622197e3f6439bafcb1ec133e1c
+========
+guid: fe3637fad55160848915378a442bfc2e
+>>>>>>>> TestMaster:Assets/Scripts/ChangeScenesButtons.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
