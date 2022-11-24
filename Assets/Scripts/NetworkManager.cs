@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NetworkManager : MonoBehaviour
+public class NetworkManager : MonoBehaviour//comentario prueba
 {
 public void CreateUser(string userName,string email,string pass, Action <Response> response)
  {
